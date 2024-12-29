@@ -5,6 +5,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>miniusbhater</Authors>
+    <Company>miniusbhater</Company>
+    <Description>Destroys your operating system</Description>
+    <PackageProjectUrl>https://github.com/miniusbhater/FuckMySystem/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/miniusbhater/FuckMySystem/</RepositoryUrl>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
 
 </Project>
